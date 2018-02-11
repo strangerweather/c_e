@@ -7,11 +7,11 @@
       "thumbUrl": "https://images.unsplash.com/photo-1489556222275-c026a4c4142b?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
     },
 	{
-      "author": "LoboStudio Hamburg",
-      "url": "https://images.unsplash.com/photo-1504293538349-0be9a181d474",
-      "name": "Säntis, Switzerland",
-      "thumbUrl": "https://images.unsplash.com/photo-1504293538349-0be9a181d474b?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
-    },	
+      "author": "Aaron Ang",
+      "url": "https://images.unsplash.com/photo-1454418447879-455f6fc7c64d",
+      "name": "Clouds Cover a Mountain",
+      "thumbUrl": "https://images.unsplash.com/photo-1454418447879-455f6fc7c64d?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
+    },
 	{
       "author": "Sebastian Garcia",
       "url": "https://images.unsplash.com/photo-1493305457700-d3d24daf8c8c",
@@ -29,6 +29,6 @@
       "url": "https://images.unsplash.com/photo-1517008607120-139741f5eeef",
       "name": "Eucalyptus",
       "thumbUrl": "https://images.unsplash.com/photo-1517008607120-139741f5eeef?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
-    }
+    },
   ]
 }
