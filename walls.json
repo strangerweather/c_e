@@ -1,4 +1,3 @@
-
 {
   "Wallpapers": [
     {
@@ -98,10 +97,10 @@
       "thumbUrl": "https://images.unsplash.com/photo-1516008449420-75393cb9fce9?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 },
 	  {
-      "author": "David Marcu",
-      "url": "https://images.unsplash.com/photo-yZfr4jmxQyuaE132MWZm_stagnes.jpg",
-      "name": "Monochrome Coastal Rocks",
-      "thumbUrl": "https://images.unsplash.com/photo-yZfr4jmxQyuaE132MWZm_stagnes.jpg?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
+      "author": "Mandy Beerley",
+      "url": "https://images.unsplash.com/photo-1477437550029-150985ff0de9",
+      "name": "Volcano, Cloud, Lava and Steam",
+      "thumbUrl": "https://images.unsplash.com/photo-1477437550029-150985ff0de9?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 },
 	  {
       "author": "Richard Jacobs",
@@ -122,10 +121,10 @@
       "thumbUrl": "https://images.unsplash.com/photo-1440899046124-38241f9fe54d?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 },
 	  {
-      "author": "Laurenz Blickwedel",
-      "url": "https://images.unsplash.com/photo-1460011388997-ca3125704c6",
-      "name": "Mountain Summit Through Fog",
-      "thumbUrl": "https://images.unsplash.com/photo-1460011388997-ca3125704c6?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
+      "author": "Nitish Meena",
+      "url": "https://images.unsplash.com/photo-1444090542259-0af8fa96557e",
+      "name": "Orange Clouds Over Mountains",
+      "thumbUrl": "https://images.unsplash.com/photo-1444090542259-0af8fa96557e?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 },
 	  {
       "author": "Phoebe Strafford",
@@ -240,6 +239,12 @@
       "url": "https://images.unsplash.com/photo-1506255031836-5f5e6c4936cd",
       "name": "The Sunbeam in Sunbeams",
       "thumbUrl": "https://images.unsplash.com/photo-1506255031836-5f5e6c4936cd?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
+},	  
+	  {
+      "author": "eberhard grossgasteiger",
+      "url": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9",
+      "name": "Milky Way Galaxy in August",
+      "thumbUrl": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 },
 	  {
       "author": "Annie Spratt",
